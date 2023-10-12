@@ -1,5 +1,3 @@
 despliege en suget: https://memorizando.surge.sh/
 
-
-
-![github-small](https://github.com/Morphi007/assetGit/blob/main/Public/assets/memorizando%20game.png?raw=true)
+![memorizando game](https://github.com/Morphi007/Memorizando/assets/78938079/f9a8ecd6-1dc9-4c75-afa7-a4562c7746e0)
